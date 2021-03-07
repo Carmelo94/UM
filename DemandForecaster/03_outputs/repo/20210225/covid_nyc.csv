@@ -1,0 +1,26 @@
+county,state,fips,cases,deaths,tag_cutoffs
+Bronx,New York,36005.0,140244,5807,
+Kings,New York,36047.0,204654,8996,
+New York,New York,36061.0,100584,3852,
+Queens,New York,36081.0,206117,8675,
+Richmond,New York,36085.0,55879,1558,
+Bronx,New York,36005.0,134393,5679,l7
+Kings,New York,36047.0,195859,8824,l7
+New York,New York,36061.0,96072,3784,l7
+Queens,New York,36081.0,197718,8525,l7
+Richmond,New York,36085.0,54056,1536,l7
+Bronx,New York,36005.0,128269,5576,l14
+Kings,New York,36047.0,187592,8654,l14
+New York,New York,36061.0,91820,3693,l14
+Queens,New York,36081.0,189709,8372,l14
+Richmond,New York,36085.0,52200,1499,l14
+Bronx,New York,36005.0,122235,5467,l21
+Kings,New York,36047.0,178939,8451,l21
+New York,New York,36061.0,87468,3612,l21
+Queens,New York,36081.0,181723,8200,l21
+Richmond,New York,36085.0,50515,1464,l21
+Bronx,New York,36005.0,114800,5369,l28
+Kings,New York,36047.0,167948,8278,l28
+New York,New York,36061.0,82127,3535,l28
+Queens,New York,36081.0,171214,8033,l28
+Richmond,New York,36085.0,48264,1424,l28

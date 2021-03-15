@@ -15,5 +15,4 @@ The Demand Forecaster dashboard is published to UM Tableau Server and hosted on 
 ![Alt text](/DemandForecaster/images/trendspotter.png?raw=true "Trend")
 ![Alt text](/DemandForecaster/images/mobilize.png?raw=true "Mobilize")
 ![Alt text](/DemandForecaster/images/detect.png?raw=true "Detect")
-
-![Alt text](/DemandForecaster/images/US States View.png?raw=true "Powerpage")
+![Alt text](/DemandForecaster/images/US%20States%20View.png?raw=true "Powerpage")

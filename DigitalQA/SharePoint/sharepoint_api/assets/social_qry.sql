@@ -7,7 +7,7 @@ SELECT
 	universal_adset_id,
 	universal_metric,
 	sum(value) AS "value"
-FROM amex.v_social_joined_updated
+FROM schema.table_name
 WHERE
 	(full_date >= 'load_start_date' AND full_date <=  'load_end_date') AND
 	universal_metric IN ('load_metrics') AND

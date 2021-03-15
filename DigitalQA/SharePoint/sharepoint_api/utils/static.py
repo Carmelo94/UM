@@ -2,11 +2,11 @@ import os
 
 # redshift credentials
 rs_cred = {
-    "dbname":"mbidet1",
-    "host":"p1-decisionsciences-01.c84n347pnh51.us-east-1.redshift.amazonaws.com",
-    "port":5439,
-    "user":"carmelourena",
-    "password":"pobHS54^!65"
+    "dbname":"",
+    "host":"",
+    "port":,
+    "user":"",
+    "password":""
 }
 
 # expected columns from SA360 UI reports

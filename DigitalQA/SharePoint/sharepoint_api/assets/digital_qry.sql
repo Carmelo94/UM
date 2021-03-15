@@ -9,7 +9,7 @@ SELECT
 	source,
 	metric,
 	SUM(value) AS "value"
-FROM amex.v_digital_joined
+FROM schema.table_name
 WHERE
 	(full_date >= 'load_start_date' AND full_date <= 'load_end_date') AND
 	source IN ('dcm', 'override', 'cadreon') AND

@@ -8,4 +8,5 @@ The following files are loaded from [Google Colab](https://colab.research.google
 - 04_scripts
 
 ## Tableau
-Data from 03_outputs connected to Tableau via Google Drive connector.
+Data from 03_outputs connected to Tableau via Google Drive connector. <br>
+The Demand Forecaster dashboard is published to UM Tableau Server and hosted on bolt.umww.com for client sharing.
